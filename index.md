@@ -7,9 +7,8 @@
 <p style="font-family:arial;"> 
 Çalışmada istanbul İli içerisindeki Airbnb uygulamasında mevcut olan evlere dair ham veriler işlenmiş 
 ve görselleştirilmiştir. Çalışmada  evler ilçe bazlı olarak gruplandırılmıştır. İlçelerdeki kiralık evlere
-ait nitelikler imleçle ilgili ilçenin üzerine gelinerek sorgulanabilir. İlçelerdeki ortalama günlük ev kirası
-referans alınarak renklendirme yapılmıştır.
-Verilerin işlenmesi, görselleştirilmesi aşamalarında Python pandas, geopandas, folium kütüphaneleri kullanılmıştır.
+ait nitelikler imleçle ilgili ilçenin üzerine gelinerek sorgulanabilir. Ortalama günlük ev kirası
+referans alınarak renklendirme yapılmıştır. Verilerin işlenmesi, görselleştirilmesi aşamalarında Python pandas, geopandas, folium kütüphaneleri kullanılmıştır.
 Altlık olarak Openlayers kullanılmıştır.
    
 
