@@ -4,7 +4,7 @@
 
 
 ### Çalışma
-<p style="font-family:Comic Sans MS	;"> 
+<p style="font-family:Trebuchet MS;"> 
 Çalışmada istanbul İli içerisindeki Airbnb uygulamasında mevcut olan evlere dair ham veriler işlenmiş 
 ve görselleştirilmiştir. Çalışmada  evler ilçe bazlı olarak gruplandırılmıştır. İlçelerdeki kiralık evlere
 ait nitelikler imleçle ilgili ilçenin üzerine gelinerek sorgulanabilir. Ortalama günlük ev kirası
