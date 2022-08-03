@@ -1,5 +1,5 @@
 ## İstanbul Airbnb Veri Haritası
-**İnteraktif Harita
+**İnteraktif Harita**
 <iframe src="https://berkaymbaskaya.github.io/harita/" height="500" width="750"></iframe>
 
 
@@ -27,7 +27,7 @@ evler.plot(ax=ax,color="black",markersize=2)
 ```
 <a href="#"><img src="evler.png" alt="Örnek Resim" /></a>
 
-**Not:Çalışmada Kaan Kalkan Youtube kanalı, Mekansal Python oynatma listesinden faydalanılmıştır. 
+**Not:Çalışmada Kaan Kalkan Youtube kanalı, Mekansal Python oynatma listesinden faydalanılmıştır. **
 <a href=" https://www.youtube.com/c/kaankalkangeomatik" target="_blank"> Kaan Kalkan Youtube Kanalı </a><br> 
 İlgi duyanlar faydalanabilir.   https://www.youtube.com/c/kaankalkangeomatik
  
