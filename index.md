@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## İstanbul Airbnb Veri Haritası
+İnteraktif Harita
+<iframe src="https://berkaymbaskaya.github.io/harita/" height="500" width="750"></iframe>
 
-You can use the [editor on GitHub](https://github.com/berkaymbaskaya/Site4/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Çalışma
 
-### Markdown
+<p style="font-family:arial;"> Çalışmada istanbul İli içerisindeki Airbnb uygulamasında mevcut olan evlere dair ham veriler işlenmiş 
+ve görselleştirilmiştir. Çalışmada  evler ilçe bazlı olarak gruplandırılmıştır. İlçelerdeki kiralık evlere
+ait nitelikler imleçle ilgili ilçenin üzerine gelinerek sorgulanabilir. İlçelerdeki ortalama günlük ev kirası
+referans alınarak renklendirme yapılmıştır.
+Verilerin işlenmesi, görselleştirilmesi aşamalarında Python pandas, geopandas, folium kütüphaneleri kullanılmıştır.
+Altlık olarak Openlayers kullanılmıştır.
+Kullanılan tüm veriler <a href=" http://insideairbnb.com/get-the-data/ " target="_blank">Link 1</a><br>
+adresinden temin edilmiştir.
+    
+   
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+Evlerin ilçeler üzerinde dağılımı aşağıdaki şekilde olduğu gibidir </p>
 
 ```markdown
-Syntax highlighted code block
+fig, ax = plt.subplots(figsize=(20, 10))
+ilceler.plot(ax=ax,alpha=0.5, edgecolor="k")
+evler.plot(ax=ax,color="black",markersize=2)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+<a href="#"><img src="evler.png" alt="Örnek Resim" /></a>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/berkaymbaskaya/Site4/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<p style="font-family:arial;"> Not:Çalışmada Kaan Kalkan Youtube kanalı, Mekansal Python oynatma listesinden faydalanılmıştır. 
+<a href="https://www.youtube.com/c/kaankalkangeomatik"_blank">Link</a><br> Youtube kanalı Mekansal Python oynatma listesinden faydalanılmıştır.
+İlgi duyanlar faydalanabilir.   </p>
+    
+ 
