@@ -9,10 +9,10 @@
 ve görselleştirilmiştir. Çalışmada  evler ilçe bazlı olarak gruplandırılmıştır. İlçelerdeki kiralık evlere
 ait nitelikler imleçle ilgili ilçenin üzerine gelinerek sorgulanabilir. Ortalama günlük ev kirası
 referans alınarak renklendirme yapılmıştır. Verilerin işlenmesi, görselleştirilmesi aşamalarında Python pandas, geopandas, folium kütüphaneleri kullanılmıştır.
-Altlık olarak Openlayers kullanılmıştır.
+Altlık olarak Openlayers kullanılmıştır.</p>
    
 
-_Evlerin ilçeler üzerinde dağılımı aşağıdaki şekilde olduğu gibidir </p>
+_Evlerin ilçeler üzerinde dağılımı aşağıdaki şekilde olduğu gibidir 
 
 ```markdown
 fig, ax = plt.subplots(figsize=(20, 10))
