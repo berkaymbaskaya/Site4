@@ -1,4 +1,3 @@
-## İstanbul Airbnb Veri Haritası
 **İnteraktif Harita**
 <iframe src="https://berkaymbaskaya.github.io/harita/" height="500" width="750"></iframe>
 
