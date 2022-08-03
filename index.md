@@ -1,5 +1,7 @@
 ## İnteraktif Harita ##
-<iframe src="https://berkaymbaskaya.github.io/harita/" height="500" width="750"></iframe>
+<iframe src="https://berkaymbaskaya.github.io/harita/" height="500" width="1000">
+       frameborder="1">
+</iframe>
 
 
 ### Çalışma
