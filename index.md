@@ -12,7 +12,7 @@ referans alınarak renklendirme yapılmıştır. Verilerin işlenmesi, görselle
 Altlık olarak Openlayers kullanılmıştır.</p>
    
 
-**Evlerin ilçeler üzerinde dağılımı aşağıdaki şekilde olduğu gibidir
+_Evlerin ilçeler üzerinde dağılımı aşağıdaki şekilde olduğu gibidir_
 
 ```markdown
 fig, ax = plt.subplots(figsize=(20, 10))
