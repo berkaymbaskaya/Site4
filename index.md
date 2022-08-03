@@ -1,5 +1,5 @@
 ## İnteraktif Harita ##
-<iframe src="https://berkaymbaskaya.github.io/harita/" height="500" width="1000">
+<iframe src="https://berkaymbaskaya.github.io/harita/" height="500" width="700">
        frameborder="1">
 </iframe>
 
