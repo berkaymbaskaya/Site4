@@ -27,6 +27,6 @@ evler.plot(ax=ax,color="black",markersize=2)
 ```
 <a href="#"><img src="evler.png" alt="Örnek Resim" /></a>
 
-__**Not:Çalışmada Kaan Kalkan Youtube kanalı, Mekansal Python oynatma listesinden faydalanılmıştır. İlgi duyanlar faydalanabilir.  **__
+__**Not:Çalışmada Kaan Kalkan Youtube kanalı, Mekansal Python oynatma listesinden faydalanılmıştır. İlgi duyanlar faydalanabilir.__
 <a href=" https://www.youtube.com/c/kaankalkangeomatik" target="_blank"> Kaan Kalkan Youtube Kanalı </a><br> 
  
