@@ -12,7 +12,7 @@ referans alınarak renklendirme yapılmıştır. Verilerin işlenmesi, görselle
 Altlık olarak Openlayers kullanılmıştır.</p>
    
 
-_Evlerin ilçeler üzerinde dağılımı aşağıdaki şekilde olduğu gibidir__
+_Evlerin ilçeler üzerinde dağılımı aşağıdaki şekilde olduğu gibidir
 
 ```markdown
 fig, ax = plt.subplots(figsize=(20, 10))
@@ -24,7 +24,7 @@ evler.plot(ax=ax,color="black",markersize=2)
 
 __Not:Çalışmada Kaan Kalkan Youtube kanalı, Mekansal Python oynatma listesinden faydalanılmıştır. İlgi duyanlar faydalanabilir.__
 <a href=" https://www.youtube.com/c/kaankalkangeomatik" target="_blank"> Kaan Kalkan Youtube Kanalı </a><br> 
-_Kullanılan tüm veriler <a href=" http://insideairbnb.com/get-the-data/ " target="_blank">Airbnb Veriler </a><br>
-adresinden temin edilmiştir.__
+___________________Kullanılan tüm veriler <a href=" http://insideairbnb.com/get-the-data/ " target="_blank">Airbnb Veriler </a><br>
+adresinden temin edilmiştir.
     
  
