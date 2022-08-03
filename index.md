@@ -11,7 +11,7 @@ ait nitelikler imleçle ilgili ilçenin üzerine gelinerek sorgulanabilir. İlç
 referans alınarak renklendirme yapılmıştır.
 Verilerin işlenmesi, görselleştirilmesi aşamalarında Python pandas, geopandas, folium kütüphaneleri kullanılmıştır.
 Altlık olarak Openlayers kullanılmıştır.
-Kullanılan tüm veriler <a href=" http://insideairbnb.com/get-the-data/ " target="_blank">Link 1</a><br>
+Kullanılan tüm veriler <a href=" http://insideairbnb.com/get-the-data/ " target="_blank">Airbnb Veriler </a><br>
 adresinden temin edilmiştir.
     
    
@@ -27,9 +27,7 @@ evler.plot(ax=ax,color="black",markersize=2)
 ```
 <a href="#"><img src="evler.png" alt="Örnek Resim" /></a>
 
-
-<p style="font-family:arial;"> Not:Çalışmada Kaan Kalkan Youtube kanalı, Mekansal Python oynatma listesinden faydalanılmıştır. 
-<a href="https://www.youtube.com/c/kaankalkangeomatik"_blank">Link</a><br> Youtube kanalı Mekansal Python oynatma listesinden faydalanılmıştır.
-İlgi duyanlar faydalanabilir.   </p>
-    
+**Not:Çalışmada Kaan Kalkan Youtube kanalı, Mekansal Python oynatma listesinden faydalanılmıştır. 
+<a href=" https://www.youtube.com/c/kaankalkangeomatik" target="_blank"> Kaan Kalkan Youtube Kanalı </a><br> 
+İlgi duyanlar faydalanabilir.   https://www.youtube.com/c/kaankalkangeomatik
  
